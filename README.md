@@ -45,3 +45,15 @@
 
 完整的训练步骤见[albert_pretraining_on_albert_tiny.ipynb](colab%2Falbert_pretraining_on_albert_tiny.ipynb)
 
+## 致谢
+项目作者： Brian Shen. Twitter@dezhou. 欢迎大家关注，谢谢。
+
+## 关注我们
+欢迎关注知乎专栏号。
+
+[深度学习兴趣小组](https://www.zhihu.com/column/thuil)
+
+## 问题反馈 & 贡献
+如有问题，请在GitHub Issue中提交。
+我们没有运营，鼓励网友互相帮助解决问题。
+如果发现实现上的问题或愿意共同建设该项目，请提交Pull Request。
